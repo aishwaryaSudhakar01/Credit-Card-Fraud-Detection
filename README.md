@@ -5,9 +5,9 @@ The primary objective of this project is to develop and evaluate various machine
 
 ## Methodology
 Data Preprocessing
-Data Loading: The dataset was loaded using pandas.
-Missing Values: Checked for missing values to ensure data quality.
-Data Splitting: Split the dataset into training and testing sets using train_test_split from scikit-learn.
+ - Data Loading: The dataset was loaded using pandas.
+ - Missing Values: Checked for missing values to ensure data quality.
+ - Data Splitting: Split the dataset into training and testing sets using train_test_split from scikit-learn.
 
 ## Exploratory Data Analysis (EDA)
 Data Exploration: Inspected the first ten rows, data types, and summary statistics of the dataset.
