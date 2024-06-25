@@ -1,6 +1,6 @@
 # Comparative Study of Machine Learning Algorithms for Credit Card Fraud Detection
 
-Objective
+# Objective
 The primary objective of this project is to develop and evaluate various machine-learning models for detecting fraudulent credit card transactions. This project involves a comparative study of model performance on both imbalanced and balanced datasets, showcasing my expertise in handling class imbalance, data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and visualization.
 
 Methodology
