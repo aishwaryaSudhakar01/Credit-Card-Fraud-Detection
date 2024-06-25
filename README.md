@@ -48,9 +48,5 @@ The Random Forest Classifier consistently outperformed other models on both data
  - Handling class imbalance
  - Model evaluation and selection
 
-### Repository Contents
- - ml-based-credit-card-fraud-detection.ipynb: Jupyter notebook containing the complete analysis and model development.
- - creditcard.csv: Dataset used for the project.
-
 ### Acknowledgements
-The dataset used in this project is sourced from Kaggle and consists of transactions made by credit cards in September 2013 by European cardholders.
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and consists of transactions made by credit cards in September 2013 by European cardholders.
