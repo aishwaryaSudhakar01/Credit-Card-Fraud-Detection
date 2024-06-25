@@ -40,7 +40,7 @@ Evaluation Metrics: Used classification reports, accuracy scores, precision, rec
  - Balanced Dataset: Models showed improved recall and F1 scores for class 1, demonstrating better overall performance in detecting fraudulent transactions.
 The Random Forest Classifier consistently outperformed other models on both datasets, making it the most reliable model. It achieved an accuracy of 95.93%, precision of 0.98, recall of 0.94, and an F1 score of 0.96 on the balanced dataset.
 
-## Skills Demonstrated
+### Skills Demonstrated
  - Python Programming
  - Data manipulation with pandas
  - Data visualization with seaborn and matplotlib
@@ -48,9 +48,9 @@ The Random Forest Classifier consistently outperformed other models on both data
  - Handling class imbalance
  - Model evaluation and selection
 
-# Repository Contents
+### Repository Contents
  - ml-based-credit-card-fraud-detection.ipynb: Jupyter notebook containing the complete analysis and model development.
  - creditcard.csv: Dataset used for the project.
 
-# Acknowledgements
+### Acknowledgements
 The dataset used in this project is sourced from Kaggle and consists of transactions made by credit cards in September 2013 by European cardholders.
